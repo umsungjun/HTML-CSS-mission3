@@ -78,5 +78,5 @@ html {
 body {
   color: var(--color-black);
   background: var(--color-white);
-
+  height: 2000vh;
 }
